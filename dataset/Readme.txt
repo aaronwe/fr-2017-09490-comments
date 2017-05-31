@@ -1,8 +1,12 @@
 This dataset contains the public comments submitted to regulations.gov under FR Doc # 2017-09490 (“Review of Certain National Monuments Established Since 1996; Notice of Opportunity for Public Comment”, Docket Number DOI-2017-0002) through May 26, 2017. 
 
+Federal Register Docket Folder URL: https://www.regulations.gov/document?D=DOI-2017-0002-0001 
+
 Example comment: https://www.regulations.gov/document?D=DOI-2017-0002-77096
 
-As of 10:00 am on 5/26/2017 https://www.regulations.gov/document?D=DOI-2017-0002-0001 reflected that 107,284 comments had been received. This dataset contains the 102,959 that are publicly available. 
+----
+
+As of 10:00 am on 5/26/2017 reflected that 123,477 comments had been received. This dataset contains the 119,173 comments that are publicly available as of 10:00 am on 5/30/2017.
 
 Explaining this discrepancy, Regulations.gov notes:
 
@@ -39,24 +43,6 @@ comment: The text of the comment itself. New lines are indicated with “\n”
 
 document_url: URL to view the comment on Regulations.gov
 
-====================
-CSV Dataset Metadata
-====================
-A CSV version of the dataset is also provided for developers.
-
-id: unique internal id
-
-document_id: “Unique identifier established for a document.This includes the agency acronym, the year created, the docket, and the document number.”
-
-tracking_number: “System-generated number that allows a user to search for their comment on Regulations.gov.”
-
-date_posted: “Date that the document was created in FDMS.For a comment submitted through Regulations.gov, this marks the date a comment is submitted. For a comment submitted to an agency via mail, fax, or email, this marks the date a comment is entered into the internal agency system (FDMS.gov) by the agency.”
-
-retrieved: The date that the comment was scraped from regulations.gov
-
-has_attachments: Indicates if one or more attachments were included as part of the comments. Attachments may be retrieved / viewed at the Document ID URL (substitute in the relevant Document ID into the url “https://www.regulations.gov/document?D=[Document ID]” e.g. https://www.regulations.gov/document?D=DOI-2017-0002-79972). The attachments may be provided on a subsequent date as a separate dataset.
-
-comment: The text of the comment itself. New lines are indicated with “\n”
 
 ----
 
@@ -97,6 +83,9 @@ DOI-2017-0002-91567
 DOI-2017-0002-91285
 DOI-2017-0002-88631
 DOI-2017-0002-64214
+DOI-2017-0002-64231
+DOI-2017-0002-107160
+DOI-2017-0002-110502
 
 Finally, DOI-2017-0002-99259 creates an error and is unable to be retrieved.
 
@@ -105,4 +94,4 @@ This dataset is a copy of the publicly available comments available from https:/
 
 It is provided without guarantee of completeness or accuracy.
 ----
-Questions? Reach out to Mark Egge (mark@eateggs.com)
+Questions? Send questions to Mark Egge (mark@eateggs.com)
