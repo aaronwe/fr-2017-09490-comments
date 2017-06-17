@@ -1,11 +1,11 @@
-This dataset contains the public comments submitted to regulations.gov under FR Doc # 2017-09490 (“Review of Certain National Monuments Established Since 1996; Notice of Opportunity for Public Comment”, Docket Number DOI-2017-0002) through May 26, 2017. 
+This dataset contains the public comments submitted to regulations.gov under FR Doc # 2017-09490 (“Review of Certain National Monuments Established Since 1996; Notice of Opportunity for Public Comment”, Docket Number DOI-2017-0002).
 
 Federal Register Docket Folder URL: https://www.regulations.gov/document?D=DOI-2017-0002-0001 
 
 Example comment: https://www.regulations.gov/document?D=DOI-2017-0002-77096
 
-Last Updated: 6/8/2017, 7:00 am MT
-Comment Count: 133,813
+Last Updated: 6/16/2017, 8:00 PM MT
+Comment Count: 151,631
 
 ----
 
@@ -13,9 +13,7 @@ This dataset contains all public comments available on Regulations.gov as of the
 
 Explaining this discrepancy, Regulations.gov notes:
 
-	“This count refers to the total comment/submissions 
-	received on this document, as of 11:59 PM [5/25/2017]. 
-	Note: Agencies review all submissions, however some 
+	“Note: Agencies review all submissions, however some 
 	agencies may choose to redact, or withhold, certain 
 	submissions (or portions thereof) such as those 
 	containing private or proprietary information, 
