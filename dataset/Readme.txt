@@ -4,8 +4,8 @@ Federal Register Docket Folder URL: https://www.regulations.gov/document?D=DOI-2
 
 Example comment: https://www.regulations.gov/document?D=DOI-2017-0002-77096
 
-Last Updated: 6/16/2017, 8:00 PM MT
-Comment Count: 151,631
+Last Updated: 6/23/2017, 4:00 PM MT
+Comment Count: 200,000+
 
 ----
 
