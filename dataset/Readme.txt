@@ -4,8 +4,8 @@ Federal Register Docket Folder URL: https://www.regulations.gov/document?D=DOI-2
 
 Example comment: https://www.regulations.gov/document?D=DOI-2017-0002-77096
 
-Last Updated: 6/23/2017, 4:00 PM MT
-Comment Count: 200,000+
+Last Updated: 7/2/2017, 4:00 PM MT
+Comment Count: 387,000+
 
 ----
 
@@ -40,14 +40,25 @@ retrieved: The date that the comment was scraped from regulations.gov
 
 has_attachments: Indicates if one or more attachments were included as part of the comments. Attachments may be retrieved / viewed by clicking the document_url. The attachments may be provided as a separate dataset.
 
-comment: The text of the comment itself. New lines are indicated with “\n”
+comment: The text of the comment itself. New lines are encoded with “\n”
 
 document_url: URL to view the comment on Regulations.gov
 
 
-----
-
+===============================
+Dataset Metadata - ignore_list.csv
+===============================
 Certain documents were not able to be retrieved. These are listed, along with the reason why, in the accompanying ignore_list.csv.
+
+document_id: “Unique identifier established for a document.This includes the agency acronym, the year created, the docket, and the document number.”
+
+tracking_number: “System-generated number that allows a user to search for their comment on Regulations.gov.”
+
+reason: “Reason, if available, that the document was unable to be retrieved”
+
+document_url: URL to view the comment on Regulations.gov
+
+
 
 ----
 This dataset is a copy of the publicly available comments available from https://www.regulations.gov/docketBrowser?rpp=25&po=0&dct=PS&D=DOI-2017-0002&refD=DOI-2017-0002-0001
